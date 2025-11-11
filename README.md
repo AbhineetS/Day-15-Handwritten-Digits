@@ -43,3 +43,9 @@ Python | TensorFlow | Keras | NumPy | Matplotlib
 📁 [GitHub Repository](https://github.com/AbhineetS/Day-15-Handwritten-Digits)
 **Test accuracy:** 99.08% | **Model:** CNN (Keras/TensorFlow)
 
+
+## ⚡ Quick Start
+1. Clone the repo
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run: `python3 run_mnist_cnn.py`
+
