@@ -41,3 +41,5 @@ Python | TensorFlow | Keras | NumPy | Matplotlib
 ## 🔗 Connect
 💼 [LinkedIn - Abhineet Singh](https://www.linkedin.com/in/abhineet-s)  
 📁 [GitHub Repository](https://github.com/AbhineetS/Day-15-Handwritten-Digits)
+**Test accuracy:** 99.08% | **Model:** CNN (Keras/TensorFlow)
+
